@@ -1,0 +1,17 @@
+facility_id,area_id,facility_name,facility_type,maternity_beds,skilled_attendants,has_ambulance,has_lab,operating_hours
+fac-101,area-001,Riverdale District General Hospital,DISTRICT_HOSPITAL,45,14,true,true,TWENTY_FOUR_SEVEN
+fac-102,area-001,East Riverdale Community Health Center,COMMUNITY_HEALTH_CENTRE,12,4,false,true,TWELVE_HOUR
+fac-103,area-001,North Outpost Primary Health Centre,PRIMARY_HEALTH_CENTRE,4,1,false,false,DAY_ONLY
+fac-201,area-002,Highland Valley District Referral Hospital,DISTRICT_HOSPITAL,28,7,true,true,TWENTY_FOUR_SEVEN
+fac-202,area-002,Pine Ridge Community Health Center,COMMUNITY_HEALTH_CENTRE,8,2,false,false,TWELVE_HOUR
+fac-203,area-002,Summit Pass Health Post,PRIMARY_HEALTH_CENTRE,2,1,false,false,DAY_ONLY
+fac-301,area-003,Delta Haven Subdistrict Hospital,SUB_DISTRICT_HOSPITAL,30,8,true,true,TWENTY_FOUR_SEVEN
+fac-302,area-003,Estuary Island Health Centre,COMMUNITY_HEALTH_CENTRE,6,2,false,false,DAY_ONLY
+fac-303,area-003,Creek Side Maternity Post,MATERNITY_CLINIC,4,2,false,false,TWELVE_HOUR
+fac-401,area-004,Central Metro Women & Children Hospital,DISTRICT_HOSPITAL,95,38,true,true,TWENTY_FOUR_SEVEN
+fac-402,area-004,North Metro Polyclinic & Maternity Unit,COMMUNITY_HEALTH_CENTRE,24,12,true,true,TWENTY_FOUR_SEVEN
+fac-403,area-004,Capital West Maternity Centre,MATERNITY_CLINIC,18,8,true,false,TWELVE_HOUR
+fac-501,area-005,West Foothills Rural Hospital,SUB_DISTRICT_HOSPITAL,16,4,false,true,TWELVE_HOUR
+fac-502,area-005,Border Ridge Health Center,PRIMARY_HEALTH_CENTRE,4,1,false,false,DAY_ONLY
+fac-601,area-006,Lake Basin Community Health Centre,COMMUNITY_HEALTH_CENTRE,20,6,true,true,TWENTY_FOUR_SEVEN
+fac-602,area-006,South Shore Primary Post,PRIMARY_HEALTH_CENTRE,6,2,false,false,DAY_ONLY

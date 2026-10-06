@@ -1,0 +1,7 @@
+indicator_code,indicator_name,unit,benchmark_target,benchmark_source,priority_weight,direction
+ANC_COV,Antenatal Care 4+ Visits Coverage,percentage,80.0,National Planning Norms,0.18,HIGHER_BETTER
+INST_DELIV,Institutional Delivery Rate,percentage,85.0,National Planning Norms,0.20,HIGHER_BETTER
+PNC_CARE,Postnatal Care within 48 Hours,percentage,75.0,Maternal Health Standard,0.16,HIGHER_BETTER
+SKILLED_STAFF,Skilled Workforce Density (per 10k target pop),ratio,4.5,Regional Health Guidelines,0.18,HIGHER_BETTER
+DIAGNOSTIC_SCORE,Diagnostic Availability Score,index_0_100,75.0,Essential Diagnostics Standard,0.14,HIGHER_BETTER
+EMERG_TRANSPORT,Emergency Transport 45min Reach,percentage,70.0,Emergency Referral Guidelines,0.14,HIGHER_BETTER

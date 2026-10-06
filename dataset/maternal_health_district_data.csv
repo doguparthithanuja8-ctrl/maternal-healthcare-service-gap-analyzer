@@ -1,0 +1,9 @@
+# Synthetic Maternal Healthcare Datasets
+# Generated for technical testing and software demonstration
+area_id,area_name,region,population,target_reproductive_pop,terrain_type,latitude,longitude,anc_coverage_pct,institutional_delivery_pct,postnatal_care_pct,skilled_workforce_density,diagnostic_availability_score,emergency_transport_coverage_pct
+area-001,North Riverdale District,Northern Province,245000,58000,PLAINS,24.120000,88.240000,76.4,81.2,68.5,4.2,72.0,64.0
+area-002,Highland Valley Division,Eastern Highlands,178000,41000,MOUNTAINOUS,24.650000,89.120000,51.2,46.8,41.5,2.1,38.0,32.5
+area-003,Coastal Delta Zone,Southern Delta,312000,76000,COASTAL,22.350000,89.980000,58.6,54.1,49.3,2.6,44.5,41.0
+area-004,Central Metro Corridor,Central Province,520000,134000,URBAN,23.710000,90.410000,89.5,92.4,84.1,6.8,91.0,88.5
+area-005,West Foothills Sub-district,Western Border,142000,33500,HILLY,23.950000,88.900000,44.3,39.5,35.8,1.8,32.0,28.0
+area-006,Lake Basin Community,Central Province,198000,46200,PLAINS,23.400000,90.150000,71.8,74.5,65.2,3.8,66.0,59.0

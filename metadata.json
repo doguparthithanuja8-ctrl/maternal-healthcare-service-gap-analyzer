@@ -1,0 +1,6 @@
+{
+  "name": "Maternal Healthcare Accessibility & Service Gap Analyzer",
+  "description": "A data-driven decision-support platform for analyzing maternal healthcare service availability, accessibility indexes, and service gaps across communities and districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
